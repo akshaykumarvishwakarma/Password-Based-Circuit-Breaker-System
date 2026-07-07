@@ -77,17 +77,3 @@ Only users with the correct password can operate the connected electrical load. 
 - Mobile App Control
 
 ---
-
-## Project Images
-
-(Add your project images here)
-
----
-
-## Author
-
-Akshay Kumar Vishwakarma
-
-Electrical Engineering
-
-MANIT Bhopal
